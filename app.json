@@ -1,19 +1,19 @@
 {
   "expo": {
     "sdkVersion": "29.0.0",
-    "name": "Lotto Th",
-    "slug": "lotto-th",
+    "name": "Project Name",
+    "slug": "project-name",
     "privacy": "unlisted",
     "orientation": "portrait",
     "ios": {
-      "bundleIdentifier": "app.ter.lotto-th",
+      "bundleIdentifier": "com.example.project-name",
       "buildNumber": "1",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
-      "package": "app.ter.lotto_th",
+      "package": "com.example.project_name",
       "versionCode": 1
     }
   }
